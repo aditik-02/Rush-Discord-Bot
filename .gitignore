@@ -12,4 +12,4 @@ venv/
 data/saved_cafes.json
 
 #Ignore very large dataset files
-data/yelp_academic_dataset_business.json
+#data/yelp_academic_dataset_business.json
