@@ -1,0 +1,15 @@
+# Ignore environment variables
+.env
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore user-specific data files
+data/saved_cafes.json
+
+#Ignore very large dataset files
+data/yelp_academic_dataset_business.json
